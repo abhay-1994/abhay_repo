@@ -13,7 +13,7 @@ public class EnterDataInToActiveElement {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		driver.get("https://www.facebook.com");
 //		driver.switchTo().activeElement().sendKeys("abc@gmail.com");
-		
+		//vinay latest code
 
 	}
 
