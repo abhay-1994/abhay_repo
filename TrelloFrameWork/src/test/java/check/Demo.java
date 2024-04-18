@@ -7,7 +7,7 @@ import com.qsp.trello.genericutility.*;
 public class Demo extends BaseClass {
 	@Test
 	public void CheckBaseClass() {
-		
+		System.out.println("hello");
 	}
 
 }
