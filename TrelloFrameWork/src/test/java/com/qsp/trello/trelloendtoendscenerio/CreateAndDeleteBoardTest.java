@@ -16,7 +16,7 @@ import com.qsp.trello.pomrepo.TrelloHomePage;
 import com.qsp.trello.pomrepo.TrelloLoginPage;
 import com.qsp.trello.pomrepo.TrelloTrelloBoardPage;
 
-public class CreateAndDeleteBoard extends BaseClass{
+public class CreateAndDeleteBoardTest extends BaseClass{
 	@Test
 	public void verifyUserIsAbleToCreateAndDeleteTheBoard() throws IOException {
 		TrelloHomePage homePage=new TrelloHomePage(driver);
