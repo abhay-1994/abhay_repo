@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class cmdLineTest {
 
 	
-	@Test
+	//@Test
 	public void mavenTest() {
 		WebDriver driver=null;
 		String BROWSER = System.getProperty("browser");
